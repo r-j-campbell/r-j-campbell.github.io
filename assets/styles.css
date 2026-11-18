@@ -10,3 +10,5 @@
 .supervision-section{padding:10px 0 50px;max-width:850px}.supervision-section p{max-width:75ch}
 
 .phd-hero{display:grid;grid-template-columns:1.1fr 1fr;gap:55px;align-items:center}.phd-hero h1{font-size:clamp(46px,5.6vw,70px)}.phd-hero figure{margin:0}.phd-hero img{display:block;width:100%;height:auto;border-radius:24px}.phd-hero figcaption{font-size:11px;color:var(--muted);margin-top:12px}.phd-hero figcaption a{color:var(--accent)}@media(max-width:800px){.phd-hero{grid-template-columns:1fr;gap:30px}.phd-hero img{border-radius:18px}}
+
+section[aria-labelledby="funded-project-title"] p{max-width:none}
